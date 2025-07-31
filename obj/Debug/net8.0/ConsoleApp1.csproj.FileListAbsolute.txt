@@ -1,0 +1,14 @@
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\kf 7\source\repos\managedEmploye\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
